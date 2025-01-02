@@ -4,7 +4,7 @@ cover: ../../.gitbook/assets/Frame 13.png
 coverY: 0
 ---
 
-# LST/LRT Strategy Framework
+# LST/LRT AI Strategy Framework
 
 This comprehensive system is implemented through several key technical components, which are Amplified’s **LST/LRT Strategy Framework** is an integrated system designed to optimize yield generation for Liquid Staking Tokens (LSTs) and Liquid Restaking Tokens (LRTs). Leveraging several advanced technical components, this framework provides a high level of security, efficiency, and adaptability. Each component works cohesively to maximize yields while maintaining rigorous risk management, establishing Amplified as a leading institutional-grade DeFi protocol.
 
@@ -15,7 +15,7 @@ The LST/LRT Strategy Framework comprises the following key elements:
 * **Core Technical Architecture**: Provides the foundational infrastructure that supports secure, scalable, and efficient operations across all strategies.
 * **AI Liquidity Engine**: A powerful AI-driven engine that utilizes machine learning to analyze market trends, predict opportunities, and optimize strategies in real time.
 * **ALM v3 Implementation**: A state-of-the-art automated liquidity management system designed to enhance capital efficiency and minimize impermanent loss for LST/LRT pairs.
-* **Strategy Framework**: A versatile system that supports a range of yield-generating strategies across staking, liquidity provision, lending, leverage, and derivatives.
+* **AI Agents Swarm - Strategy Managers:** AI driven system that supports a range of yield-generating strategies across staking, liquidity provision, lending, leverage, and derivatives.
 * **Risk Management Systems**: Employs sophisticated models to continuously assess and mitigate risks, ensuring that all strategies operate within secure parameters.
 * **Performance Optimization**: Utilizes advanced algorithms to track and adjust strategy performance, maximizing returns while adapting to changing market conditions.
 
