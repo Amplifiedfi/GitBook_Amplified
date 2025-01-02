@@ -22,12 +22,12 @@
   * [EIP-2535 Diamond Standard](eth-and-lst-super-vault/vault-architecture-and-core-tech/eip-2535-diamond-standard.md)
   * [Amplified ALM v3](eth-and-lst-super-vault/vault-architecture-and-core-tech/amplified-alm-v3.md)
   * [AI Liquidity Engine](eth-and-lst-super-vault/vault-architecture-and-core-tech/ai-liquidity-engine.md)
-* [LST/LRT Strategy Framework](eth-and-lst-super-vault/lst-lrt-strategy-framework/README.md)
-  * [AI Agents Swarm - Strategy Managers](eth-and-lst-super-vault/lst-lrt-strategy-framework/ai-agents-swarm-strategy-managers.md)
-  * [LST/LRT Staking](eth-and-lst-super-vault/lst-lrt-strategy-framework/lst-lrt-staking.md)
-  * [LST/LRT Liquidity](eth-and-lst-super-vault/lst-lrt-strategy-framework/lst-lrt-liquidity.md)
-  * [LST/LRT Lending](eth-and-lst-super-vault/lst-lrt-strategy-framework/lst-lrt-lending.md)
-  * [LST/LRT Advanced Trading Strategies](eth-and-lst-super-vault/lst-lrt-strategy-framework/lst-lrt-advanced-trading-strategies.md)
+* [LST/LRT AI Strategy Framework](eth-and-lst-super-vault/lst-lrt-ai-strategy-framework/README.md)
+  * [AI Agents Swarm - Strategy Managers](eth-and-lst-super-vault/lst-lrt-ai-strategy-framework/ai-agents-swarm-strategy-managers.md)
+  * [LST/LRT Staking](eth-and-lst-super-vault/lst-lrt-ai-strategy-framework/lst-lrt-staking.md)
+  * [LST/LRT Liquidity](eth-and-lst-super-vault/lst-lrt-ai-strategy-framework/lst-lrt-liquidity.md)
+  * [LST/LRT Lending](eth-and-lst-super-vault/lst-lrt-ai-strategy-framework/lst-lrt-lending.md)
+  * [LST/LRT Advanced Trading Strategies](eth-and-lst-super-vault/lst-lrt-ai-strategy-framework/lst-lrt-advanced-trading-strategies.md)
 * [Institutional-Grade DeFi Solutions](eth-and-lst-super-vault/institutional-grade-defi-solutions.md)
 
 ## 🏛️ Governance & Tokenomics
