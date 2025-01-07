@@ -1,7 +1,7 @@
 ---
 description: >-
-  Amplified simplifies access to DeFi strategies by tokenizing complex defi
-  markets into a single token.
+  Amplified simplifies access to LST/LRT strategies by tokenizing volatility and
+  capital efficiency into a single token.
 cover: .gitbook/assets/Frame 10.png
 coverY: -131.96510468594215
 ---
