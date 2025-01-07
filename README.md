@@ -18,16 +18,16 @@ Enter DeFAI (DeFi + AI), a revolutionary approach that leverages artificial inte
 
 Amplified Protocol introduces an innovative approach to LST/LRT management through three core components:
 
-#### 1. AI-Powered Super Vault
+#### [1. AI-Powered Super Vault](broken-reference)
 
 At the heart of Amplified lies the Super Vault, an intelligent system that:
 
 * Aggregates user deposits and dynamically reallocates them across top-performing LST pools
-* Employs sophisticated AI algorithms to continuously assess market conditions
+* [Employs sophisticated AI algorithms to continuously assess market conditions](eth-and-lst-super-vault/lst-lrt-strategy-framework/ai-agents-swarm-strategy-managers.md)
 * Optimizes portfolio allocations while maintaining robust risk controls
 * Simplifies the complex world of liquid staking into a single, user-friendly interface
 
-#### 2. Advanced Liquidity Management (ALM v3)
+#### [2. Advanced Liquidity Management (ALM v3)](eth-and-lst-super-vault/vault-architecture-and-core-tech/amplified-alm-v3.md)
 
 Amplified's ALM v3 represents a breakthrough in concentrated liquidity management:
 
@@ -36,7 +36,7 @@ Amplified's ALM v3 represents a breakthrough in concentrated liquidity managemen
 * Utilizes real-time data analysis for optimal range selection and rebalancing
 * Incorporates automated yield optimization strategies
 
-#### 3. Institutional-Grade Risk Framework
+#### [3. Institutional-Grade Risk Framework](resources/risk-management-framework.md)
 
 The protocol maintains institutional-level security through:
 
