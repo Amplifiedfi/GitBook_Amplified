@@ -6,7 +6,7 @@ cover: .gitbook/assets/Frame 10.png
 coverY: -131.96510468594215
 ---
 
-# 👋 AI Investment Layer - Amplified Protocol
+# 👋 AI-driven Liquidity & Yield Layer for ETH², BTC² & USD²
 
 ## DeFAI and LST Markets: The Amplified Protocol Approach
 
@@ -22,9 +22,9 @@ Amplified Protocol introduces an innovative approach to LST/LRT management throu
 
 At the heart of Amplified lies the Super Vault, an intelligent system that:
 
-* Aggregates user deposits and dynamically reallocates them across top-performing LST pools
+* [Aggregates user deposits and dynamically reallocates them across top-performing LST pools](eth-and-lst-super-vault/vault-architecture-and-core-tech/ai-liquidity-engine.md)
 * [Employs sophisticated AI algorithms to continuously assess market conditions](eth-and-lst-super-vault/lst-lrt-strategy-framework/ai-agents-swarm-strategy-managers.md)
-* Optimizes portfolio allocations while maintaining robust risk controls
+* [Optimizes portfolio allocations while maintaining robust risk controls](./#id-3.-institutional-grade-risk-framework)
 * Simplifies the complex world of liquid staking into a single, user-friendly interface
 
 #### [2. Advanced Liquidity Management (ALM v3)](eth-and-lst-super-vault/vault-architecture-and-core-tech/amplified-alm-v3.md)

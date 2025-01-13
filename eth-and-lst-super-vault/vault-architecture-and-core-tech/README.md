@@ -1,6 +1,6 @@
 ---
-description: 'ETH & LSD Super Vault: Protocol Overview & Value Flows'
 icon: sliders-up
+description: 'ETH & LSD Super Vault: Protocol Overview & Value Flows'
 cover: ../../.gitbook/assets/Frame 6.png
 coverY: 0
 ---
@@ -30,7 +30,7 @@ Built on two key standards—**ERC-4626** and **EIP-2535 (Diamond Standard)**—
 
 The Amplified Super Vault serves as the central interface for all user interactions:
 
-* Users deposit ETH or LSTs and receive amplETH tokens
+* Users deposit ETH or LSTs and receive aiETH tokens
 * Protocol automatically deploys capital across multiple strategies
 * Value accrual occurs through share price appreciation
 * Yields are optimized through AI-driven rebalancing

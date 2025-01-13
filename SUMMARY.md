@@ -34,7 +34,7 @@
 
 * [Protocol Governance & Liquidity Generation Model](governance-and-tokenomics/protocol-governance-and-liquidity-generation-model.md)
 * [LLT Tokenomics](governance-and-tokenomics/llt-tokenomics.md)
-* [aaaETH LST](governance-and-tokenomics/aaaeth-lst.md)
+* [aiETH LRT](governance-and-tokenomics/aieth-lrt.md)
 * [Governance Framework & Process](governance-and-tokenomics/governance-framework-and-process/README.md)
   * [Managing Protocol and Strategy Executors](governance-and-tokenomics/governance-framework-and-process/managing-protocol-and-strategy-executors.md)
   * [Governance Security Model](governance-and-tokenomics/governance-framework-and-process/governance-security-model.md)
