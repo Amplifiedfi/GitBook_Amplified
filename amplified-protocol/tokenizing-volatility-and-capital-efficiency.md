@@ -1,9 +1,9 @@
 ---
+icon: grid
 description: >-
   Amplified autonomously optimizes yields, liquidity flows, and capital
   deployment, simplifying the complexity of managing LST assets across multiple
   DeFi strategies.
-icon: grid
 cover: ../.gitbook/assets/Frame 4.png
 coverY: 0
 ---
@@ -19,7 +19,7 @@ Through tokenization, Amplified unifies a fragmented market, creating a single, 
 * **Market-Wide Derivatives:** Access derivatives that reflect the whole LSD market, giving users diversified exposure and risk-adjusted returns from various staking and yield-generating strategies.
 * **Multi-Strategy Integration:** Amplified consolidates multiple strategies (staking, restaking, liquidity management, lending, and derivatives) into a unified experience, reducing complexity for users.
 * **Advanced Structured Products:** Our protocol leverages on-chain products designed to capture optimal yield opportunities with minimal manual intervention.
-* **AI-Driven Capital Optimization:** Autonomous AI and machine learning models dynamically allocate capital, maximizing yield based on real-time market conditions.
+* **AI-Driven Capital Optimization:** AI Agents Swarm and machine learning models dynamically allocate capital, maximizing yield based on real-time market conditions.
 
 ### **Core Benefits of Amplified’s Tokenization Model**
 
