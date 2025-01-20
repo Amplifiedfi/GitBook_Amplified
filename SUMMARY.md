@@ -24,6 +24,7 @@
   * [AI Liquidity Engine](eth-and-lst-super-vault/vault-architecture-and-core-tech/ai-liquidity-engine.md)
 * [LST/LRT AI Strategy Framework](eth-and-lst-super-vault/lst-lrt-strategy-framework/README.md)
   * [AI Agents Swarm - Strategy Managers](eth-and-lst-super-vault/lst-lrt-strategy-framework/ai-agents-swarm-strategy-managers.md)
+  * [AI Agents Portfolio Engine](eth-and-lst-super-vault/lst-lrt-ai-strategy-framework/ai-agents-portfolio-engine.md)
   * [LST/LRT Staking](eth-and-lst-super-vault/lst-lrt-strategy-framework/lst-lrt-staking.md)
   * [LST/LRT Liquidity](eth-and-lst-super-vault/lst-lrt-strategy-framework/lst-lrt-liquidity.md)
   * [LST/LRT Lending](eth-and-lst-super-vault/lst-lrt-strategy-framework/lst-lrt-lending.md)
