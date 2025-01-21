@@ -14,10 +14,10 @@ Amplified Protocol's governance and tokenomics model builds upon lessons learned
 
 ### **Core Token Structure**
 
-In Amplified Protocol, tokens serve multiple critical functions beyond value transfer, including governance participation, stakeholder alignment, and protocol value distribution. Amplified uses a dual-token model comprising **LLT** (governance token) and **ampETH** (yield-bearing token), designed to address the unique requirements of LST/LRT management.
+In Amplified Protocol, tokens serve multiple critical functions beyond value transfer, including governance participation, stakeholder alignment, and protocol value distribution. Amplified uses a dual-token model comprising **LLT** (governance token) and **aiETH/BTC/USD** (yield-bearing token), designed to address the unique requirements of LST/LRT management.
 
 * **LLT Governance Token**: The cornerstone of Amplified’s governance framework, LLT embodies the community’s collective stake in the protocol’s success. By distributing control to stakeholders, LLT ensures that those invested in the protocol’s growth have a direct influence over its direction and decisions.
-* **ampETH Yield-Bearing Token**: Complements LLT by focusing on yield generation, allowing users to participate in the protocol’s staking and liquidity strategies.
+* **aiETH/BTC/USD Yield-Bearing Token**: Complements LLT by focusing on yield generation, allowing users to participate in the protocol’s staking and liquidity strategies.
 
 ### **Governance Powers of LLT Holders**
 
