@@ -12,7 +12,7 @@ coverY: -131.96510468594215
 
 DeFi has established itself as the backbone of Web3, enabling global financial access through decentralized protocols that facilitate instant transfers, on-chain investments, and permissionless borrowing and lending. However, the growing complexity of DeFi - from managing wallets and gas fees to navigating multiple L1s and L2s - has created significant barriers to entry for mainstream users.
 
-Enter DeFAI (DeFi + AI), a revolutionary approach that leverages artificial intelligence to make DeFi accessible to everyone. Amplified Protocol sits at the forefront of this evolution, specifically focusing on simplifying and optimizing the Liquid Staking Token (LST) and Liquid Restaking Token (LRT) markets.
+Enter DeFAI, a revolutionary approach that leverages artificial intelligence to make DeFi accessible to everyone. Amplified Protocol sits at the forefront of this evolution, specifically focusing on simplifying and optimizing the Liquid Staking Token (LST) and Liquid Restaking Token (LRT) markets.
 
 ### The Amplified Protocol Solution
 
