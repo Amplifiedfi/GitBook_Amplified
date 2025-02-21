@@ -1,6 +1,8 @@
 # TLDR
 
-Amplified Finance is a protocol that creates Liquid Restaking Tokens (LRTs) which function as structured products built on top of existing Liquid Staking Tokens (LSTs) and DeFi primitives. Here's how it works:
+Amplified Finance is a protocol that creates Liquid Restaking Tokens (LRTs) which function as structured products built on top of existing Liquid Re/Staking Tokens (LSTs/LRTs) and DeFi primitives.\
+\
+Here's how it works:
 
 #### The Core Function:
 
@@ -14,9 +16,9 @@ Amplified Finance is a protocol that creates Liquid Restaking Tokens (LRTs) whic
 #### The Core Technology:
 
 * The protocol leverages three key technological components:
-  1. An Automated Liquidity Manager: Optimizes liquidity deployment across DEX pools and lending markets to maximize yield generation
-  2. AI Agents Swarm: A proprietary system providing 24/7 active management of positions to optimize risk-adjusted returns
-  3. Institutional-Grade Risk Management: A comprehensive risk management stack monitoring position health, market conditions, and protocol exposure in real-time to ensure portfolio stability and risk mitigation
+  1. **Automated Liquidity Manager:** Optimizes liquidity deployment across DEX pools and lending markets to maximize yield generation
+  2. A**I Agents Swarm:** A proprietary system providing 24/7 active management of positions to optimize risk-adjusted returns
+  3. **Institutional-Grade Risk Management:** A comprehensive risk management stack monitoring position health, market conditions, and protocol exposure in real-time to ensure portfolio stability and risk mitigation
 
 #### The End Product:
 
@@ -24,4 +26,4 @@ Amplified Finance is a protocol that creates Liquid Restaking Tokens (LRTs) whic
 * These LRTs are backed by actively managed positions in underlying LSTs and DeFi protocols
 * The protocol aims to generate enhanced yields compared to standard LST holdings by leveraging multiple DeFi strategies under active management
 
-In essence, Amplified creates structured LRT products that optimize yield generation from LST collateral through automated DeFi strategy execution and active position management, while maintaining institutional-grade risk controls.
+In essence, Amplified creates structured LRT products that optimize yield generation from LST collateral through AI-driven DeFi strategy execution and active position management, while maintaining institutional-grade risk controls.
