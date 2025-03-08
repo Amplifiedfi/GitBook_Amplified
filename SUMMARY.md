@@ -4,7 +4,6 @@
 
 * [TLDR](README.md)
 * [👋 AI-driven Liquidity & Yield Layer for ETH², BTC² & USD²](<README (1).md>)
-* [The State of LST/LRT Capital Markets](amplified-protocol/the-state-of-lst-lrt-capital-markets.md)
 * [Simplifying LST/LRT DeFi Complexity](amplified-protocol/simplifying-lst-lrt-defi-complexity.md)
 * [Tokenizing Volatility & Capital Efficiency](amplified-protocol/tokenizing-volatility-and-capital-efficiency.md)
 * [❓ FAQ](amplified-protocol/faq.md)
