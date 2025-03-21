@@ -4,9 +4,9 @@ cover: ../../.gitbook/assets/Frame 13.png
 coverY: 0
 ---
 
-# LST/LRT Liquidity
+# Automated Liquidity Management
 
-Amplified’s **Automated Liquidity Management (ALM v3)** system provides a sophisticated approach to liquidity provisioning, specifically optimized for the unique characteristics of Liquid Staking Tokens (LST) and Liquid Restaking Tokens (LRT). This advanced framework focuses on concentrated liquidity, enabling users to maximize capital efficiency while minimizing impermanent loss.
+Amplified’s **Automated Liquidity Management (ALM v3)** system provides a sophisticated approach to liquidity provisioning, specifically optimized for the unique characteristics asset derivatives and Liquid Staking Tokens (LST) and Liquid Restaking Tokens (LRT). This advanced framework focuses on concentrated liquidity, enabling users to maximize capital efficiency while minimizing impermanent loss.
 
 ### **Concentrated Liquidity Optimization**
 

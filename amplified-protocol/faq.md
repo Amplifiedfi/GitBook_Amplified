@@ -19,7 +19,6 @@ Amplified is a DeFi protocol that simplifies LST investments by aggregating mult
 
 Amplified offers several key advantages:
 
-* **LST Specialization:** We focus exclusively on LSTs, curating the best-performing and most secure pools across the DeFi ecosystem.
 * **Advanced Yield Optimization:** Our proprietary strategies utilize real-time data and risk management to maximize your returns while minimizing potential losses.
 * **User-Friendly Experience:** Whether you're new to DeFi or a seasoned investor, our platform is designed for ease of use and accessibility.
 * **Security & Transparency:** We prioritize security audits, on-chain transparency, and community governance to foster trust and accountability.
@@ -38,15 +37,7 @@ Connect your Ethereum wallet, deposit ETH into the Super Vault, and start earnin
 
 <summary><strong>What is the Super Vault?</strong></summary>
 
-The Super Vault is a smart contract that manages user deposits, allocates funds across LST strategies, and aggregates yields.
-
-</details>
-
-<details>
-
-<summary><strong>How are LST strategies chosen and implemented?</strong></summary>
-
-Strategies are proposed and voted on by veLLT (staked LLT) token holders through the governance process, ensuring community oversight and transparency.
+The Super Vault is a smart contract that manages user deposits, allocates funds across on-chain strategies, and aggregates yields.
 
 </details>
 
@@ -62,7 +53,7 @@ While there isn't a strict minimum ETH deposit, gas fees on the Ethereum network
 
 <summary><strong>What happens to my ETH when I deposit it into Amplified?</strong></summary>
 
-When you deposit ETH, the Super Vault uses it to acquire LSTs from different protocols. These LSTs are then strategically allocated across our yield-generating strategies to maximize your returns.
+When you deposit ETH, the Super Vault uses it to acquire derivatives from different protocols. These derivatives are then strategically allocated across our yield-generating strategies to maximize your returns.
 
 </details>
 
@@ -78,7 +69,7 @@ Yields are harvested frequently, and the rewards are automatically compounded ba
 
 <summary><strong>Can I withdraw my ETH at any time?</strong></summary>
 
-You have full control over your funds. While there are no general withdrawal delays, certain LST strategies might have temporary lock-up periods. These periods, along with any applicable fees, will be clearly communicated before you invest.
+You have full control over your funds.&#x20;
 
 </details>
 

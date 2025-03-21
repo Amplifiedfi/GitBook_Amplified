@@ -2,9 +2,7 @@
 
 ## Amplified protocol
 
-* [Executive Summary](README.md)
-* [👋 AI-driven Liquidity & Yield Layer for ETH², BTC² & USD²](<README (1).md>)
-* [Simplifying LST/LRT DeFi Complexity](amplified-protocol/simplifying-lst-lrt-defi-complexity.md)
+* [👋 Institutional-Grade Yield-Backed Assets](README.md)
 * [Tokenizing Volatility & Capital Efficiency](amplified-protocol/tokenizing-volatility-and-capital-efficiency.md)
 * [❓ FAQ](amplified-protocol/faq.md)
 
@@ -15,21 +13,21 @@
 * [Protocol Loyalty System](community-loyalty-program/protocol-loyalty-system.md)
 * [Squad Referral System: Invite Friends, Earn Rewards!](community-loyalty-program/squad-referral-system-invite-friends-earn-rewards.md)
 
-## 🪙 ETH & LST Super Vault
+## 🪙 Super Vault Architecture
 
-* [Vault Architecture & Core Tech](eth-and-lst-super-vault/vault-architecture-and-core-tech/README.md)
-  * [ERC-4626 Tokenization](eth-and-lst-super-vault/vault-architecture-and-core-tech/erc-4626-tokenization.md)
-  * [EIP-2535 Diamond Standard](eth-and-lst-super-vault/vault-architecture-and-core-tech/eip-2535-diamond-standard.md)
-  * [Amplified ALM v3](eth-and-lst-super-vault/vault-architecture-and-core-tech/amplified-alm-v3.md)
-  * [AI Liquidity Engine](eth-and-lst-super-vault/vault-architecture-and-core-tech/ai-liquidity-engine.md)
-* [LST/LRT AI Strategy Framework](eth-and-lst-super-vault/lst-lrt-strategy-framework/README.md)
-  * [AI Agents Swarm - Strategy Managers](eth-and-lst-super-vault/lst-lrt-strategy-framework/ai-agents-swarm-strategy-managers.md)
-  * [AI Agents Portfolio Engine](eth-and-lst-super-vault/lst-lrt-ai-strategy-framework/ai-agents-portfolio-engine.md)
-  * [LST/LRT Staking](eth-and-lst-super-vault/lst-lrt-strategy-framework/lst-lrt-staking.md)
-  * [LST/LRT Liquidity](eth-and-lst-super-vault/lst-lrt-strategy-framework/lst-lrt-liquidity.md)
-  * [LST/LRT Lending](eth-and-lst-super-vault/lst-lrt-strategy-framework/lst-lrt-lending.md)
-  * [LST/LRT Advanced Trading Strategies](eth-and-lst-super-vault/lst-lrt-strategy-framework/lst-lrt-advanced-trading-strategies.md)
-* [Institutional-Grade DeFi Solutions](eth-and-lst-super-vault/institutional-grade-defi-solutions.md)
+* [Vault Architecture & Core Tech](super-vault-architecture/vault-architecture-and-core-tech/README.md)
+  * [ERC-4626 Tokenization](super-vault-architecture/vault-architecture-and-core-tech/erc-4626-tokenization.md)
+  * [EIP-2535 Diamond Standard](super-vault-architecture/vault-architecture-and-core-tech/eip-2535-diamond-standard.md)
+  * [Amplified ALM v3](super-vault-architecture/vault-architecture-and-core-tech/amplified-alm-v3.md)
+  * [AI Liquidity Engine](super-vault-architecture/vault-architecture-and-core-tech/ai-liquidity-engine.md)
+* [LST/LRT AI Strategy Framework](super-vault-architecture/lst-lrt-ai-strategy-framework/README.md)
+  * [AI Agents Portfolio Engine](super-vault-architecture/lst-lrt-ai-strategy-framework/ai-agents-portfolio-engine.md)
+  * [AI Agents Swarm - Strategy Managers](super-vault-architecture/lst-lrt-ai-strategy-framework/ai-agents-swarm-strategy-managers.md)
+  * [Staking & Restaking](super-vault-architecture/lst-lrt-ai-strategy-framework/staking-and-restaking.md)
+  * [Automated Liquidity Management](super-vault-architecture/lst-lrt-ai-strategy-framework/automated-liquidity-management.md)
+  * [Lending Optimization](super-vault-architecture/lst-lrt-ai-strategy-framework/lending-optimization.md)
+  * [Advanced Trading Strategies](super-vault-architecture/lst-lrt-ai-strategy-framework/advanced-trading-strategies.md)
+* [Institutional-Grade DeFi Solutions](super-vault-architecture/institutional-grade-defi-solutions.md)
 
 ## 🏛️ Governance & Tokenomics
 

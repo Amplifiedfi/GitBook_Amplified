@@ -4,9 +4,9 @@ cover: ../../.gitbook/assets/Frame 13.png
 coverY: 0
 ---
 
-# LST/LRT Lending
+# Lending Optimization
 
-The **LST/LRT Lending** strategy within Amplified’s protocol is designed to maximize returns on lending positions across multiple DeFi platforms. By leveraging real-time data and advanced algorithms, this system optimizes interest rates, manages collateral, and implements strategies for enhanced yield, all while maintaining rigorous risk controls.
+The **Lending Optimization** strategy within Amplified’s protocol is designed to maximize returns on lending positions across multiple DeFi platforms. By leveraging real-time data and advanced algorithms, this system optimizes interest rates, manages collateral, and implements strategies for enhanced yield, all while maintaining rigorous risk controls.
 
 ### **Lending Position Strategies**
 

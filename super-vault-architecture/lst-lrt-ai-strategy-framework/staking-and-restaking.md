@@ -4,11 +4,11 @@ cover: ../../.gitbook/assets/Frame 13.png
 coverY: 0
 ---
 
-# LST/LRT Staking
+# Staking & Restaking
 
 ### LST & LRT Strategies
 
-The **LST/LRT Staking** strategy is a key component of Amplified’s yield generation framework, providing a comprehensive infrastructure for optimized staking and restaking. Designed to maximize returns while maintaining robust risk controls, this system strategically selects protocols and validators to achieve optimal yield outcomes.
+The **LST/LRT Staking** strategy is another component of Amplified’s yield generation framework, providing a comprehensive infrastructure for optimized staking and restaking. Designed to maximize returns while maintaining robust risk controls, this system strategically selects protocols and validators to achieve optimal yield outcomes.
 
 ### **Primary Staking Infrastructure**
 
