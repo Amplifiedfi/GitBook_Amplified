@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/background yield bearing assets.png
+coverY: 0
+---
+
 # 👋 Institutional-Grade Yield-Bearing Assets
 
 ### Executive Summary
