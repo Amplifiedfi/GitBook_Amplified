@@ -2,7 +2,7 @@
 
 ## Amplified protocol
 
-* [👋 Institutional-Grade Yield-Backed Assets](README.md)
+* [👋 Institutional-Grade Yield-Bearing Assets](README.md)
 * [Tokenizing Volatility & Capital Efficiency](amplified-protocol/tokenizing-volatility-and-capital-efficiency.md)
 * [❓ FAQ](amplified-protocol/faq.md)
 

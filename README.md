@@ -1,8 +1,8 @@
-# 👋 Institutional-Grade Yield-Backed Assets
+# 👋 Institutional-Grade Yield-Bearing Assets
 
 ### Executive Summary
 
-Amplified Finance is a DeFi liquidity infrastructure protocol that creates Yield-Backed Assets functioning as structured products built upon existing derivative assets and DeFi protocol primitives. Our protocol delivers enhanced yield opportunities with institutional-grade risk management for sophisticated crypto asset investors.
+Amplified Finance is a DeFi liquidity infrastructure protocol that creates Yield-Bearing Assets functioning as structured products built upon existing derivative assets and DeFi protocol primitives. Our protocol delivers enhanced yield opportunities with institutional-grade risk management for sophisticated crypto asset investors.
 
 * [Discord](https://discord.gg/sbtJqAdnA9)
 * [Website](https://amplified.fi/)

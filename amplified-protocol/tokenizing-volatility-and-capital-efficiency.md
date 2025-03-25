@@ -6,9 +6,9 @@ coverY: 0
 
 # Tokenizing Volatility & Capital Efficiency
 
-## Amplified's Approach to Yield-Backed Assets
+## Amplified's Approach to Yield-Bearing Assets
 
-Amplified Protocol's approach to creating Yield-Backed Assets involves:
+Amplified Protocol's approach to creating Yield-Bearing Assets involves:
 
 Through the creation of structured products, Amplified unifies fragmented yield opportunities, creating versatile assets that represent optimized yield generation across the DeFi ecosystem. This approach introduces:
 
@@ -19,9 +19,9 @@ Through the creation of structured products, Amplified unifies fragmented yield 
 * **Advanced Structured Products:** Our protocol leverages on-chain products designed to capture optimal yield opportunities with minimal manual intervention.
 * **AI-Driven Capital Optimization:** AI Agents Swarm and machine learning models dynamically allocate capital, maximizing yield based on real-time market conditions.
 
-### Core Benefits of Amplified's Yield-Backed Assets
+### Core Benefits of Amplified's Yield-Bearing Assets
 
-By creating structured Yield-Backed Assets, Amplified offers a series of powerful benefits for both individual and institutional investors:
+By creating structured Yield-Bearing Assets, Amplified offers a series of powerful benefits for both individual and institutional investors:
 
 * **Enhanced Liquidity:** Our sophisticated vault systems ensure liquidity is readily available, making it easier for users to enter and exit positions without impacting market stability.
 * **Greater Capital Efficiency:** Cross-chain adaptability allows capital to move seamlessly across protocols, reducing friction and maximizing potential returns.
