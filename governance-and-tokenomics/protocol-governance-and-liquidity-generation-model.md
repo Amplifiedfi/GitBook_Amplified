@@ -37,12 +37,12 @@ Amplified's protocol architecture is engineered with comprehensive capabilities 
 
 **Core Revenue Capabilities**
 
-* **LST/LRT AMM Integration**
+* **ALM AMM Integration**
   * Transaction fee collection infrastructure
   * Impermanent loss mitigation systems
   * Liquidity provider reward distribution mechanisms
   * Treasury allocation frameworks
-* **LST Re-Staking Infrastructure**
+* **LST & Re-Staking Infrastructure**
   * Multi-token staking capability (ezETH, eETH, stETH, sfrxETH)
   * Validator integration framework
   * Reward distribution systems
@@ -70,7 +70,7 @@ The protocol has a structured approach to revenue allocation, ensuring that fund
 
 * **Protocol Treasury**:
   * Funding for development, strategic investments, token buybacks, and burn mechanisms.
-* **LLT/ETH Liquidity Incentives**:
+* **LLT/ETH (and other governance selected LPs) Liquidity Incentives**:
   * Supports LLT/ETH liquidity pools, maintaining market stability and trading efficiency.
 * **Governance Treasury**:
   * Funds community initiatives, partnerships, strategic buybacks, and other governance-led projects.
