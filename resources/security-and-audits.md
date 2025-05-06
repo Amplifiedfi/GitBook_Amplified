@@ -13,7 +13,7 @@ Amplified Protocol adheres to rigorous security standards to protect user assets
 
 Amplified undergoes regular, independent security audits to identify and mitigate vulnerabilities. Each audit provides a thorough examination of the protocol's smart contracts and infrastructure, enabling Amplified to implement any necessary security enhancements.
 
-* [**Pessimistic Audit Report**](https://github.com/pessimistic-io/audits/blob/8e69c5474af06a7230a4f0c1522b69fc34cca247/Amplified%20Strategy%20Vault%20Security%20Analysis%20by%20Pessimistic.pdf)
+* [**Pessimistic Audit Report**](https://github.com/zenith-security/reports/blob/main/reports/Code4rena%20-%20Zenith%20Audit%20Report%20for%20Amplified.pdf)
 * [**Code4rena Audit Report**](https://code4rena.com/reports/2024-09-amplified-zenith)
 
 These audits provide the community with transparency and confidence, demonstrating Amplified’s commitment to proactive security management.
