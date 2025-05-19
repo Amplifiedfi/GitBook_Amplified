@@ -10,7 +10,7 @@ This comprehensive system is implemented through several key technical component
 
 ### **Core Components**
 
-The LST/LRT Strategy Framework comprises the following key elements:
+The AI Strategy Framework comprises the following key elements:
 
 * **Core Technical Architecture**: Provides the foundational infrastructure that supports secure, scalable, and efficient operations across all strategies.
 * **AI Liquidity Engine**: A powerful AI-driven engine that utilizes machine learning to analyze market trends, predict opportunities, and optimize strategies in real time.
@@ -21,7 +21,7 @@ The LST/LRT Strategy Framework comprises the following key elements:
 
 ### **Strategic Capabilities**
 
-The LST/LRT Strategy Framework enables Amplified to execute a variety of complex yield generation strategies, which are divided into specialized areas:
+The AI Strategy Framework enables Amplified to execute a variety of complex yield generation strategies, which are divided into specialized areas:
 
 1. **LST/LRT Staking**: Facilitates secure staking and restaking of assets, providing users with reliable yield options while enhancing network security.
 2. **DEX Liquidity**: Manages liquidity provision in a way that optimizes returns from market making and trading fees, balancing capital efficiency and liquidity needs.
@@ -29,4 +29,4 @@ The LST/LRT Strategy Framework enables Amplified to execute a variety of complex
 4. **Leverage**: Utilizes leverage to enhance yield potential, applying precise risk controls to avoid overexposure and manage volatility.
 5. **Derivatives**: Employs derivatives-based strategies to hedge positions and capture additional yield, utilizing options, futures, and swaps where appropriate.
 
-Each of these strategic components is supported by Amplified’s modular, data-driven systems, ensuring that every yield opportunity is pursued with optimal efficiency and risk management. Together, these elements make the LST/LRT Strategy Framework a powerful tool for both institutional and retail investors seeking reliable, enhanced returns in the DeFi space.
+Each of these strategic components is supported by Amplified’s modular, data-driven systems, ensuring that every yield opportunity is pursued with optimal efficiency and risk management. Together, these elements make the AI Strategy Framework a powerful tool for both institutional and retail investors seeking reliable, enhanced returns in the DeFi space.
