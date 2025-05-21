@@ -32,7 +32,8 @@
 ## 🏛️ Governance & Tokenomics
 
 * [Protocol Governance & Liquidity Generation Model](governance-and-tokenomics/protocol-governance-and-liquidity-generation-model.md)
-* [LLT Tokenomics](governance-and-tokenomics/llt-tokenomics.md)
+* [LLT Tokenomics](governance-and-tokenomics/llt-tokenomics/README.md)
+  * [LLT Intrinsic Value Drivers](governance-and-tokenomics/llt-tokenomics/llt-intrinsic-value-drivers.md)
 * [aiUSD / aiETH / aiBTC](governance-and-tokenomics/aiusd-aieth-aibtc.md)
 * [Governance Framework & Process](governance-and-tokenomics/governance-framework-and-process/README.md)
   * [Governance Security Model](governance-and-tokenomics/governance-framework-and-process/governance-security-model.md)

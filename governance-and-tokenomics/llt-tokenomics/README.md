@@ -1,16 +1,10 @@
 ---
 icon: people-roof
-cover: ../.gitbook/assets/Frame 19.png
+cover: ../../.gitbook/assets/Frame 19.png
 coverY: 0
 ---
 
 # LLT Tokenomics
-
-### Introduction
-
-DeFi represents a fundamental shift in how financial systems operate, removing traditional intermediaries and enabling direct community control. Within this ecosystem, governance and tokenomics form the foundation of how protocols evolve, make decisions, and create sustainable value for participants.
-
-Amplified Protocol's governance and tokenomics model builds upon lessons learned from the DeFi ecosystem's development. By studying successful implementations in protocols like Uniswap, AAVE, and Frax, Amplified creates a framework that balances efficient decision-making with decentralized control. This approach is particularly crucial in the LST/LRT space, where careful management of staked assets and yield strategies requires both agility and security.
 
 ### **Core Token Structure**
 
