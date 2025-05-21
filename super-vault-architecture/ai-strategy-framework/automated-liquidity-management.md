@@ -6,7 +6,7 @@ coverY: 0
 
 # Automated Liquidity Management
 
-Amplified’s **Automated Liquidity Management (ALM v3)** system provides a sophisticated approach to liquidity provisioning, specifically optimized for the unique characteristics asset derivatives and Liquid Staking Tokens (LST) and Liquid Restaking Tokens (LRT). This advanced framework focuses on concentrated liquidity, enabling users to maximize capital efficiency while minimizing impermanent loss.
+Amplified’s **Automated Liquidity Management (ALM v3)** system provides a sophisticated approach to liquidity provisioning, specifically optimized for the unique characteristics asset derivatives and correlated pairs. This advanced framework focuses on concentrated liquidity, enabling users to maximize capital efficiency while minimizing impermanent loss.
 
 ### **Concentrated Liquidity Optimization**
 
@@ -25,7 +25,7 @@ ALM v3 includes specialized systems to optimize capital deployment in liquidity 
 
 ### **Advanced Market Making Features**
 
-Amplified’s ALM v3 includes sophisticated market-making capabilities tailored for LST/LRT pairs, enhancing fee capture and liquidity efficiency:
+Amplified’s ALM v3 includes sophisticated market-making capabilities tailored for correlated pairs and direct derivatives, enhancing fee capture and liquidity efficiency:
 
 * **Intelligent Fee Tier Selection**: Analyzes liquidity pools to identify the most profitable fee tiers.
   * **Real-Time Volume Analysis**: Monitors trading volume across pools to select optimal fee tiers.

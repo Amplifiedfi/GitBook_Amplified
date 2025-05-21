@@ -6,7 +6,7 @@ icon: sliders-up
 
 ### Automated Liquidity Management (ALM v3)
 
-ALM v3 represents Amplified's state-of-the-art approach to concentrated liquidity management, specifically engineered for LST/LRT pairs. This system optimizes capital efficiency while minimizing impermanent loss through sophisticated position management.
+ALM v3 represents Amplified's state-of-the-art approach to concentrated liquidity management, specifically engineered for correlated pairs and direct derivatives. This system optimizes capital efficiency while minimizing impermanent loss through sophisticated position management.
 
 ### **Concentrated Liquidity Optimization**
 
@@ -32,7 +32,7 @@ This comprehensive range management system enables optimal capital deployment, h
 
 ### **Market Making Enhancement**
 
-ALM v3 is equipped with sophisticated tools for effective market making, tailored for LST/LRT pairs:
+ALM v3 is equipped with sophisticated tools for effective market making, tailored for correlated pairs and direct derivatives:
 
 * **Price Discovery**: An advanced pricing mechanism for precise market engagement.
   * **Cross-Market Price Aggregation**: Consolidates prices from multiple markets for accurate value assessment.
