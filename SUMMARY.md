@@ -23,7 +23,6 @@
 * [AI Strategy Framework](super-vault-architecture/ai-strategy-framework/README.md)
   * [AI Agents Portfolio Engine](super-vault-architecture/ai-strategy-framework/ai-agents-portfolio-engine.md)
   * [AI Agents Swarm - Strategy Managers](super-vault-architecture/ai-strategy-framework/ai-agents-swarm-strategy-managers.md)
-  * [Staking & Restaking](super-vault-architecture/ai-strategy-framework/staking-and-restaking.md)
   * [Automated Liquidity Management](super-vault-architecture/ai-strategy-framework/automated-liquidity-management.md)
   * [Lending Optimization](super-vault-architecture/ai-strategy-framework/lending-optimization.md)
   * [Advanced Trading Strategies](super-vault-architecture/ai-strategy-framework/advanced-trading-strategies.md)

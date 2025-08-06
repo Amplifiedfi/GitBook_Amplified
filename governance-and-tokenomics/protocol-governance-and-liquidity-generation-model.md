@@ -8,11 +8,9 @@ coverY: 0
 
 ### Introduction to LLT Token Governance
 
-Amplified Protocol implements a governance framework centered on the LLT token, establishing a decentralized financial ecosystem that prioritizes stakeholder empowerment and operational efficiency.&#x20;
+Amplified Protocol implements a governance framework centered on the LLT token (Locked Liquidity Tender), establishing a decentralized financial ecosystem that prioritizes stakeholder empowerment and operational efficiency.&#x20;
 
 The governance architecture, developed through analysis of established protocols including Uniswap, AAVE, and Frax, incorporates staking mechanisms, time-locks, and vote-escrowed tokenomics to align stakeholder interests with long-term protocol sustainability.
-
-<figure><img src="../.gitbook/assets/gov-frame.png" alt=""><figcaption></figcaption></figure>
 
 ### **Governance Architecture**
 
@@ -42,11 +40,6 @@ Amplified's protocol architecture is engineered with comprehensive capabilities 
   * Impermanent loss mitigation systems
   * Liquidity provider reward distribution mechanisms
   * Treasury allocation frameworks
-* **LST & Re-Staking Infrastructure**
-  * Multi-token staking capability (ezETH, eETH, stETH, sfrxETH)
-  * Validator integration framework
-  * Reward distribution systems
-  * Automated compounding mechanisms
 * **Lending and Borrowing Framework**
   * Integration capability with major lending protocols (AAVE, Morpho, GearBox)
   * Collateral management systems

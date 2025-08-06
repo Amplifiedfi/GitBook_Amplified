@@ -68,9 +68,3 @@ Amplified’s institutional-first approach shapes the entire technical infrastru
   * **Adaptability**: A modular, upgradeable design that’s ready for future innovations in DeFi.
 
 Amplified’s institutional-grade technology enables seamless integration with professional investment processes, ensuring top standards of security, compliance, and operational efficiency. With Amplified, institutional investors gain access to DeFi markets with the sophistication and control they expect from traditional finance.
-
-Join the Amplified community and maximize the potential of your ETH-based investment strategies today.
-
-***
-
-_Join the Amplified community today and take the first step towards maximizing your ETH ETF's potential._

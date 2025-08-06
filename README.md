@@ -7,7 +7,21 @@ coverY: 0
 
 ### Executive Summary
 
-Amplified Finance is a DeFi liquidity infrastructure protocol that creates Yield-Bearing Assets functioning as structured products built upon existing derivative assets and DeFi protocol primitives. Our protocol delivers enhanced yield opportunities with institutional-grade risk management for sophisticated crypto asset investors.
+Amplified Protocol is a decentralized financial infrastructure project developing a new class of yield-bearing assets: aiUSD, aiETH, and aiBTC. These are not standard tokens or passive vault positions, but AI-managed synthetic assets designed to evolve the concept of yield generation on-chain.
+
+The core innovation lies in the integration of an AI Agent Swarm framework - a system of finetuned models that analyze, score, and propose optimal yield strategies in real time. These strategies are constrained within risk and operational boundaries defined by LLT token governance, ensuring decentralized control over system parameters such as protocol whitelists, risk thresholds, and model upgrades.
+
+At launch, Amplified’s yield generation will be conservative and focused on non-leveraged, low-complexity strategies:
+
+* Concentrated liquidity provision on major DEXs, dynamically managed by ALM v3 (Automated Liquidity Manager)
+* Lending position allocation across established on-chain lending markets
+
+All AI-proposed actions will be subject to human-in-the-loop (HITL) validation during initial operations. This is a deliberate safety measure - not a permanent design - intended to ensure system integrity as the protocol scales. The long-term goal is a progressive shift toward full autonomy as confidence, infrastructure stability, and on-chain data maturity increase.
+
+Amplified does not rely on speculative or complex financial engineering (e.g., leverage, derivatives, or options strategies) at launch. Instead, it focuses on optimizing existing yield sources - particularly concentrated liquidity - using intelligent, data-driven rebalancing that outperforms static or semi-automated vaults.
+
+The protocol’s value proposition is not higher APY alone, but higher intelligence in capital allocation -combining adaptive decision-making with decentralized governance, transparency, and operational safety.\
+
 
 * [Discord](https://discord.gg/sbtJqAdnA9)
 * [Website](https://amplified.fi/)
@@ -20,8 +34,8 @@ Amplified Finance is a DeFi liquidity infrastructure protocol that creates Yield
 
 The protocol accepts blue-chip crypto assets as collateral, including:
 
-* Ethereum-based LSTs (stETH, rETH)
-* Bitcoin-based assets (wBTC)
+* Ethereum (ETH/wETH)
+* Bitcoin (wBTC)
 * Stablecoins (USDC, USDT)
 
 #### Product Creation

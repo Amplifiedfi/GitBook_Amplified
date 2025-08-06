@@ -23,10 +23,9 @@ The aiUSD/aiETH/aiBTC tokens (aiTokens) represents Amplified’s innovative appr
 
 aiToken’s value is designed to appreciate through various channels, offering diversified yield sources and maximizing returns:
 
-* **Staking Rewards**: Accumulation of validator rewards from the Ethereum network.
 * **DeFi Strategy Earnings**: Gains from advanced DeFi strategies executed within the protocol.
 * **Platform Fee Revenue**: A share of the protocol’s fee revenues is distributed to aiToken holders.
-* **Re-Staking, Rebalancing, and Compounding**: Additional returns generated through strategic re-staking and automated compounding.
+* **Arbitrage, Rebalancing, and Compounding**: Additional returns generated through strategic arbitrage and automated compounding.
 
 This multi-layered approach to value accrual supports aiToken’s growth potential while diversifying its yield sources, providing a sustainable and robust yield-bearing asset for holders.
 

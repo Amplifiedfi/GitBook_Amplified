@@ -1,6 +1,6 @@
 ---
+description: AI-Driven Super Vaults
 icon: sliders-up
-description: 'ETH & LSD Super Vault: Protocol Overview & Value Flows'
 cover: ../../.gitbook/assets/Frame 6.png
 coverY: 0
 ---
@@ -12,8 +12,6 @@ coverY: 0
 The Amplified Protocol implements a sophisticated vault management system that optimizes yields through multiple integrated components and strategies. Understanding the core value flows and mechanics provides essential context for the technical architecture that follows.
 
 The Amplified Protocol’s Super Vault represents an evolution in DeFi vault technology, engineered to deliver optimized yield management with institutional-grade efficiency and security. This system streamlines user interactions while maximizing yield potential through a multi-layered, modular approach.
-
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 ### Foundation Architecture
 
@@ -30,7 +28,7 @@ Built on two key standards—**ERC-4626** and **EIP-2535 (Diamond Standard)**—
 
 The Amplified Super Vault serves as the central interface for all user interactions:
 
-* Users deposit ETH or LSTs and receive aiETH tokens
+* Users deposit ETH/BTC/USD and receives aiTokens
 * Protocol automatically deploys capital across multiple strategies
 * Value accrual occurs through share price appreciation
 * Yields are optimized through AI-driven rebalancing
@@ -44,7 +42,7 @@ Amplified's Super Vault generates value through a strategic approach combining m
   * ALM v3 for optimized liquidity concentration.
   * AI-driven yield strategies for adaptive management.
   * Cross-protocol yield farming and automated compounding.
-  * LST/LRT-specific strategies for tailored market engagement.
+  * Cross-chain yield farming and automated arbitrage.
 * **Protocol Integration**:
   * Yield-optimized DeFi protocol connections.
   * Cross-chain opportunities and strategic token swaps.
@@ -63,8 +61,8 @@ The protocol's advanced design facilitates:
 
 Amplified’s Super Vault includes a comprehensive reward distribution model:
 
-* **ETH-on-ETH Yield Optimization**:
-  * Rewards for liquidity provision on AMMs, lending markets, strategic staking and infnite future strategies.
+* **ETH-on-ETH / BTC-on-BTC / USD-on-USD Yield Optimization**:
+  * Rewards for liquidity provision on AMMs, lending markets, strategic staking and infinite future strategies.
   * Performance-based bonuses and cross-protocol reward optimization.
   * Compounding mechanisms to increase reward value over time.
 * **Point & Airdrop System**: Incentivizes active participation with activity-based points, loyalty rewards, and performance bonuses.

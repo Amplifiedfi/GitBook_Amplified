@@ -1,4 +1,5 @@
 ---
+hidden: true
 icon: people-roof
 cover: ../../.gitbook/assets/Frame 19.png
 coverY: 0

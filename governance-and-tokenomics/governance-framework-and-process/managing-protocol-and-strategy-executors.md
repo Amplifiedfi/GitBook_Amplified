@@ -7,8 +7,6 @@ icon: people-roof
 
 # Managing Protocol and Strategy Executors
 
-The success of a yield-generating protocol heavily depends on the effective management of its strategy executors and integration points. This aspect of governance becomes particularly crucial in the LST/LRT ecosystem, where multiple yield sources and strategies must be carefully coordinated to maximize returns while managing risk.
-
 Amplified's approach to managing protocol and strategy executors focuses on three key areas: careful selection and monitoring of external managers, maintaining reliable data feeds through robust oracle systems, and continuous risk assessment. This comprehensive management framework ensures that all protocol components work together effectively while maintaining security and performance.
 
 ### **External Strategy Managers**
