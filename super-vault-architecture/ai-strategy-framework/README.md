@@ -24,8 +24,9 @@ The AI Strategy Framework comprises the following key elements:
 The AI Strategy Framework enables Amplified to execute a variety of complex yield generation strategies, which are divided into specialized areas:
 
 1. **DEX Liquidity**: Manages liquidity provision in a way that optimizes returns from market making and trading fees, balancing capital efficiency and liquidity needs.
-2. **Lending**: Engages in lending strategies across multiple protocols to generate consistent returns through interest payments, secured by rigorous risk assessments.
-3. **Leverage**: Future integration of utilization of leverage to enhance yield potential, applying precise risk controls to avoid overexposure and manage volatility.
-4. **Derivatives**: Employs derivatives-based strategies to hedge positions and capture additional yield, utilizing options, futures, and swaps where appropriate.
+2. **DEX Arbitrage**: Manages arbitrage execution in a way that optimizes returns from market making and trading fees, balancing capital efficiency and liquidity needs.
+3. **Lending**: Engages in lending strategies across multiple protocols to generate consistent returns through interest payments, secured by rigorous risk assessments.
+4. **Leverage**: Future integration of utilization of leverage to enhance yield potential, applying precise risk controls to avoid overexposure and manage volatility.
+5. **Derivatives**: Future derivatives-based strategies to hedge positions and capture additional yield, utilizing options, futures, and swaps where appropriate.
 
 Each of these strategic components is supported by Amplified’s modular, data-driven systems, ensuring that every yield opportunity is pursued with optimal efficiency and risk management. Together, these elements make the AI Strategy Framework a powerful tool for both institutional and retail investors seeking reliable, enhanced returns in the DeFi space.
