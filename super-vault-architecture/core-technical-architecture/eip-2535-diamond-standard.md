@@ -6,7 +6,7 @@ coverY: 0
 
 # EIP-2535 Diamond Standard
 
-### **EIP-2535 Diamond Pattern (AmplifiedDiamond)**
+### **EIP-2535 Diamond Pattern**&#x20;
 
 The protocol leverages the Diamond pattern to create a modular, upgradeable architecture that maximizes functionality while maintaining security and efficiency. This implementation allows for sophisticated contract interactions while minimizing gas costs and maximizing upgradeability.
 

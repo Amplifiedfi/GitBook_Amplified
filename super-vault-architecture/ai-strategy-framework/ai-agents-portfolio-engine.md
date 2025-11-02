@@ -163,23 +163,23 @@ After we compute all metrics for every candidate strategy, we need to choose the
 
 1\. APY
 
-• Given the highest priority weight (70%). The rationale is that yield farming is largely about getting the best returns.
+* &#x20;Given the highest priority weight (70%). The rationale is that yield farming is largely about getting the best returns.
 
 2\. Sharpe Ratio
 
-• Weighted at 15%. Sharpe Ratio adjusts returns by their volatility. A higher Sharpe Ratio means higher risk-adjusted returns.
+* Weighted at 15%. Sharpe Ratio adjusts returns by their volatility. A higher Sharpe Ratio means higher risk-adjusted returns.
 
 3\. Alpha
 
-• Weighted at 10%. Measures the strategy’s excess return compared to a baseline or risk-free rate, capturing how well it performs above the market.
+* Weighted at 10%. Measures the strategy’s excess return compared to a baseline or risk-free rate, capturing how well it performs above the market.
 
 4\. Beta
 
-• Weighted at 5%. We prefer a Beta close to 1 (neither too high nor too low).
+* Weighted at 5%. We prefer a Beta close to 1 (neither too high nor too low).
 
 5\. Volatility
 
-• Weighted negatively at -10%. Higher volatility reduces the final score, punishing strategies that have large swings.
+* Weighted negatively at -10%. Higher volatility reduces the final score, punishing strategies that have large swings.
 
 The system picks the strategy with the highest “total\_score”. This balanced formula ensures strategies that offer strong APY and robust risk-adjusted metrics come out on top.
 

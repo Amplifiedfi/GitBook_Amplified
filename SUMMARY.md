@@ -15,17 +15,18 @@
 
 ## 🪙 Super Vault Architecture
 
-* [Vault Architecture & Core Tech](super-vault-architecture/vault-architecture-and-core-tech/README.md)
-  * [ERC-4626 Tokenization](super-vault-architecture/vault-architecture-and-core-tech/erc-4626-tokenization.md)
-  * [EIP-2535 Diamond Standard](super-vault-architecture/vault-architecture-and-core-tech/eip-2535-diamond-standard.md)
-  * [Amplified ALM v3](super-vault-architecture/vault-architecture-and-core-tech/amplified-alm-v3.md)
-  * [AI Liquidity Engine](super-vault-architecture/vault-architecture-and-core-tech/ai-liquidity-engine.md)
+* [Core Technical Architecture](super-vault-architecture/core-technical-architecture/README.md)
+  * [ERC-4626 Tokenization](super-vault-architecture/core-technical-architecture/erc-4626-tokenization.md)
+  * [EIP-2535 Diamond Standard](super-vault-architecture/core-technical-architecture/eip-2535-diamond-standard.md)
+  * [Amplified ALM v3](super-vault-architecture/core-technical-architecture/amplified-alm-v3.md)
+  * [AI Liquidity Engine](super-vault-architecture/core-technical-architecture/ai-liquidity-engine.md)
 * [AI Strategy Framework](super-vault-architecture/ai-strategy-framework/README.md)
-  * [AI Agents Portfolio Engine](super-vault-architecture/ai-strategy-framework/ai-agents-portfolio-engine.md)
   * [AI Agents Swarm - Strategy Managers](super-vault-architecture/ai-strategy-framework/ai-agents-swarm-strategy-managers.md)
-  * [Automated Liquidity Management](super-vault-architecture/ai-strategy-framework/automated-liquidity-management.md)
-  * [Lending Optimization](super-vault-architecture/ai-strategy-framework/lending-optimization.md)
-  * [Advanced Trading Strategies](super-vault-architecture/ai-strategy-framework/advanced-trading-strategies.md)
+  * [AI Agents Portfolio Engine](super-vault-architecture/ai-strategy-framework/ai-agents-portfolio-engine.md)
+  * [Automated Concentrated Liquidity Management (ACLM)](super-vault-architecture/ai-strategy-framework/automated-concentrated-liquidity-management-aclm.md)
+  * [DEX Arbitrage](super-vault-architecture/ai-strategy-framework/dex-arbitrage.md)
+  * [Lending Arbitrage](super-vault-architecture/ai-strategy-framework/lending-arbitrage.md)
+  * [Future Trading Strategies](super-vault-architecture/ai-strategy-framework/future-trading-strategies.md)
 * [Institutional-Grade DeFi Solutions](super-vault-architecture/institutional-grade-defi-solutions.md)
 
 ## 🏛️ Governance & Tokenomics

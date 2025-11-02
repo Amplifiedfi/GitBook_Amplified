@@ -7,8 +7,6 @@ coverY: 0
 
 # ERC-4626 Tokenization
 
-### Core Technical Architecture
-
 ### **ERC-4626 Vault Implementation**
 
 The Amplified Super Vault implements the ERC-4626 tokenized vault standard, establishing a sophisticated framework for yield-bearing tokens that optimizes both capital efficiency and user accessibility. This implementation represents a significant advancement in DeFi vault technology, providing institutional-grade asset handling capabilities while maintaining maximum security and composability.

@@ -6,27 +6,31 @@ coverY: 0
 
 # Tokenizing Volatility & Capital Efficiency
 
-## Amplified's Approach to Yield-Bearing Assets
+\
+**Amplified’s Approach to Yield-Bearing Assets**
 
-Amplified Protocol's approach to creating Yield-Bearing Assets involves:
+Amplified Protocol redefines yield-bearing assets by transforming fragmented DeFi opportunities into unified agentic-driven structured products. Instead of passive exposure, aiUSD, aiETH and aiBTC represent dynamic capital positions that evolve with market conditions through automated strategy execution.
 
-Through the creation of structured products, Amplified unifies fragmented yield opportunities, creating versatile assets that represent optimized yield generation across the DeFi ecosystem. This approach introduces:
+The protocol’s design enables
 
-### Core Features:
+**Market-Wide Exposure**\
+Capital is deployed across a diversified set of yield sources including DEX liquidity, lending markets and arbitrage opportunities. This provides broad, risk-adjusted exposure to on-chain yield generation without reliance on single strategies or venues.
 
-* **Market-Wide Exposure:** Access yield-generating assets that reflect broad market opportunities, giving users diversified exposure and risk-adjusted returns from various DeFi strategies.
-* **Multi-Strategy Integration:** Amplified consolidates multiple strategies (automated market making, arbitrage executions between DEX LPs, liquidity management, lending, and derivatives) into a unified experience, reducing complexity for users.
-* **Advanced Structured Products:** Our protocol leverages on-chain products designed to capture optimal yield opportunities with minimal manual intervention.
-* **AI-Driven Capital Optimization:** AI Agents Swarm and machine learning models dynamically allocate capital, maximizing yield based on real-time market conditions.
+**Multi-Strategy Integration**\
+Amplified consolidates automated market making, cross-DEX arbitrage, lending position management and future derivative strategies into a single, coherent system. This integration reduces operational overhead and eliminates the need for users to manually select or manage strategies.
 
-### Core Benefits of Amplified's Yield-Bearing Assets
+**Advanced Structured Products**\
+aiAssets are not vault shares but engineered yield instruments backed by actively rebalanced collateral. Built for composability and efficiency, they enable seamless integration across DeFi while maintaining transparent risk profiles.
 
-By creating structured Yield-Bearing Assets, Amplified offers a series of powerful benefits for both individual and institutional investors:
+**Agentic Capital Optimization**\
+An AI Agent Swarm continuously evaluates market data, proposes reallocation actions and executes optimized strategies within governance-defined constraints. Capital shifts dynamically to capture fee income, minimize impermanent loss and respond to macro or on-chain shifts, all with minimal manual input.
 
-* **Enhanced Liquidity:** Our sophisticated vault systems ensure liquidity is readily available, making it easier for users to enter and exit positions without impacting market stability.
-* **Greater Capital Efficiency:** Cross-chain adaptability allows capital to move seamlessly across protocols, reducing friction and maximizing potential returns.
-* **Simplified User Experience:** Through automation, Amplified eliminates the need for technical knowledge, empowering users to engage confidently with complex DeFi strategies.
-* **Decentralized and Profitable Ecosystem:** Amplified's model promotes decentralization while enhancing profitability for capital allocators by distributing capital, risk and capturing diversified yields.
-* **Institutional-Grade Risk Management:** With professional risk management protocols, Amplified safeguards user assets, providing a secure and compliant environment for DeFi participation.
+**Core Benefits**
 
-This comprehensive approach positions Amplified as a key innovator in DeFi structured products, unlocking significant liquidity while strengthening the DeFi ecosystem through intelligent capital deployment. By combining simplicity with powerful capital management features, Amplified enables institutional investors to maximize their yield potential in a secure, risk-managed environment.
+* Enhanced Liquidity: aiAssets are designed for efficient minting, redemption and secondary market use, improving capital fluidity across the ecosystem
+* Greater Capital Efficiency: By automating rebalancing and strategy selection, Amplified reduces idle capital and maximizes asset utilization
+* Simplified User Experience: Users gain exposure to complex, multi-layered strategies without needing technical expertise or active management
+* Decentralized Ecosystem Incentives: Value accrues to LLT stakers and veLLT holders through protocol fees, governance participation and risk oversight
+* Institutional-Grade Risk Management: On-chain VaR models, circuit breakers, execution safeguards and decision logging ensure robust, auditable operations
+
+This framework positions Amplified as a foundational layer for institutional DeFi participation, delivering structured, transparent and resilient yield infrastructure built for scale, safety and long-term capital deployment.
